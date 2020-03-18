@@ -1,0 +1,4 @@
+public static Connection getconnection(){
+Class.forName(driver);
+return connection;
+}
